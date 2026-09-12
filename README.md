@@ -399,6 +399,33 @@ InsightSphere AI can be useful for:
 
 ---
 
+🌐 Live Demo
+
+Experience InsightSphere AI directly through the deployed web application.
+
+🚀 Live Application:
+https://your-app-name.streamlit.app
+
+Replace the URL above with your actual deployment URL after deploying the project.
+
+Demo Modules
+
+The live application allows users to:
+
+📄 Upload and analyze PDF/TXT documents
+📝 Generate document summaries and important points
+🔑 Extract important keywords
+📊 Analyze CSV and Excel datasets
+📈 Generate interactive dashboards and graphs
+🧾 Analyze resumes using the ATS system
+🎯 Compare resumes with job descriptions
+💡 Receive personalized recommendations
+
+
+
+<img width="1536" height="1024" alt="LIVE-IMG" src="https://github.com/user-attachments/assets/528f10f5-26a8-4c29-bca1-05a75aae5eca" />
+
+
 # ⚠️ Limitations
 
 * Scanned/image-only PDFs require OCR support.
