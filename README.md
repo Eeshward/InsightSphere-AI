@@ -404,8 +404,6 @@ InsightSphere AI can be useful for:
 Experience InsightSphere AI directly through the deployed web application.
 
 🚀 Live Application:
-https://your-app-name.streamlit.app
-
 Replace the URL above with your actual deployment URL after deploying the project.
 
 Demo Modules
