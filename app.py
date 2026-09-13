@@ -4,11 +4,11 @@ import streamlit as st
 import pandas as pd
 from pathlib import Path
 
-from modules.pdf_analyzer import analyze_pdf, extract_pdf_text
-from modules.text_analyzer import analyze_text
-from modules.data_analyzer import analyze_dataframe
-from modules.report_generator import build_text_report
-from modules.ats_analyzer import analyze_resume
+from pdf_analyzer import analyze_pdf, extract_pdf_text
+from text_analyzer import analyze_text
+from data_analyzer import analyze_dataframe
+from report_generator import build_text_report
+from ats_analyzer import analyze_resume
 from recommendation_engine import document_recommendations, ats_recommendations
 
 st.set_page_config(
