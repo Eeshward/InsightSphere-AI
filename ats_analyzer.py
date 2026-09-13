@@ -1,6 +1,6 @@
 import re
 from collections import Counter
-from modules.text_analyzer import clean_text, extract_keywords
+from text_analyzer import clean_text, extract_keywords
 
 COMMON_SKILLS = [
     "python","java","c++","c","javascript","typescript","html","css","sql",

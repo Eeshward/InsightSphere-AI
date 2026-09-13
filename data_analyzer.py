@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from modules.recommendation_engine import data_recommendations
+from recommendation_engine import data_recommendations
 
 def _datetime_columns(df):
     cols = []

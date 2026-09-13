@@ -9,7 +9,7 @@ from modules.text_analyzer import analyze_text
 from modules.data_analyzer import analyze_dataframe
 from modules.report_generator import build_text_report
 from modules.ats_analyzer import analyze_resume
-from modules.recommendation_engine import document_recommendations, ats_recommendations
+from recommendation_engine import document_recommendations, ats_recommendations
 
 st.set_page_config(
     page_title="InsightSphere AI",

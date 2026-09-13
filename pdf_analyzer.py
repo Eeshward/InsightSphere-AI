@@ -1,5 +1,5 @@
 import pypdf
-from modules.text_analyzer import analyze_text
+from text_analyzer import analyze_text
 
 def extract_pdf_text(file_obj):
     file_obj.seek(0)
